@@ -2,8 +2,6 @@
 
 namespace potato_engine_game {
 
-REGISTER_SCRIPT(character_script);
-
 class character_script : public PotatoEngine::script::entity_script
 {
 public:
